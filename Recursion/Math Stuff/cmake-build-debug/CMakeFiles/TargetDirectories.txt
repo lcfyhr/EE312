@@ -1,0 +1,3 @@
+/Users/larsfyhr/Desktop/EE 312/Recursion/Math Stuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/larsfyhr/Desktop/EE 312/Recursion/Math Stuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/larsfyhr/Desktop/EE 312/Recursion/Math Stuff/cmake-build-debug/CMakeFiles/Math_Stuff.dir

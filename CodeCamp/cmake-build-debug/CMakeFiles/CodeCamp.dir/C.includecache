@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/larsfyhr/Desktop/EE 312/CodeCamp/CodeCamp.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+limits.h
+-
+
+/Users/larsfyhr/Desktop/EE 312/CodeCamp/CodeCampTester.c
+stdio.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Math_Stuff" targetName="Math_Stuff" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f637ddb-b038-4386-b832-8f4911f8d743" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YgTYC4C3wsdo9KX06MRe0BgKUy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Math_Stuff" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Math_Stuff" TARGET_NAME="Math_Stuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Math_Stuff" RUN_TARGET_NAME="Math_Stuff">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f637ddb-b038-4386-b832-8f4911f8d743" name="Default Changelist" comment="" />
+      <created>1583363283004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583363283004</updated>
+      <workItem from="1583363284209" duration="3085000" />
+      <workItem from="1583376832908" duration="5532000" />
+      <workItem from="1583725006586" duration="1546000" />
+      <workItem from="1583726657214" duration="15000" />
+      <workItem from="1583726726301" duration="24000" />
+      <workItem from="1583951846228" duration="102000" />
+      <workItem from="1584060372465" duration="443000" />
+      <workItem from="1584061042868" duration="253000" />
+      <workItem from="1584061346395" duration="10000" />
+      <workItem from="1584061383307" duration="6000" />
+      <workItem from="1585760018513" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1584061296319">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1584061296319" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1584061296318">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1584061296318" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1584061296318">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1584061296318" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1584061296318">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1584061296318" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom" timestamp="1583382642537">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.809@0.23.1440.809" timestamp="1583382642537" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center" timestamp="1583382642537">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.809@0.23.1440.809" timestamp="1583382642537" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left" timestamp="1583382642536">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.809@0.23.1440.809" timestamp="1583382642536" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right" timestamp="1583382642537">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.809@0.23.1440.809" timestamp="1583382642537" />
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1584061042729">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1584061042729" />
+  </component>
+</project>

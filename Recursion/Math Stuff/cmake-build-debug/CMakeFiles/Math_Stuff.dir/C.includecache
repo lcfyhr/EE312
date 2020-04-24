@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/larsfyhr/Desktop/EE 312/Recursion/Math Stuff/mathstuff.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

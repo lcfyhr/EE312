@@ -1,0 +1,371 @@
+~~~~~~~~~Welcome to the Go Fish game!~~~~~~~~~~
+Vishal and Lars were both dealt 7 cards...
+
+From the starting hands...
+
+Vishal booked the 9
+
+Turn 1: 
+
+Vishal asks for 2
+Lars says GO FISH!
+
+Vishal drew a card
+Vishal booked the 6
+
+Turn 2: 
+
+Lars asks for 6
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 3: 
+
+Vishal asks for 2
+Lars gave Vishal the 2
+
+Vishal booked the 2
+
+Turn 4: 
+
+Vishal asks for 4
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 5: 
+
+Lars asks for 6
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the 7
+
+Turn 6: 
+
+Vishal asks for 7
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 7: 
+
+Lars asks for 6
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 8: 
+
+Vishal asks for 3
+Lars gave Vishal the 3
+
+Vishal booked the 3
+
+Turn 9: 
+
+Vishal asks for 7
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 10: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 11: 
+
+Vishal asks for 2
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 12: 
+
+Lars asks for 5
+Vishal gave Lars the 5
+
+Lars booked the 5
+
+Turn 13: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the A
+
+Turn 14: 
+
+Vishal asks for 10
+Lars gave Vishal the 10
+
+Vishal booked the 10
+
+Turn 15: 
+
+Vishal asks for 2
+Lars says GO FISH!
+
+Vishal drew a card
+Vishal booked the Q
+
+Turn 16: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the J
+
+Turn 17: 
+
+Vishal asks for 2
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 18: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the 9
+
+Turn 19: 
+
+Vishal asks for 5
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 20: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 21: 
+
+Vishal asks for K
+Lars gave Vishal the K
+
+Vishal booked the K
+
+Turn 22: 
+
+Vishal asks for 5
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 23: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 24: 
+
+Vishal asks for 3
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 25: 
+
+Lars asks for K
+Vishal gave Lars the K
+
+Lars booked the K
+
+Turn 26: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 27: 
+
+Vishal asks for 3
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 28: 
+
+Lars asks for 4
+Vishal gave Lars the 4
+
+Lars booked the 4
+
+Turn 29: 
+
+Lars asks for 8
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 30: 
+
+Vishal asks for J
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 31: 
+
+Lars asks for Q
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the 8
+
+Turn 32: 
+
+Vishal asks for 10
+Lars says GO FISH!
+
+Vishal drew a card
+Vishal booked the J
+
+Turn 33: 
+
+Lars asks for Q
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the 6
+
+Turn 34: 
+
+Vishal asks for 10
+Lars says GO FISH!
+
+Vishal drew a card
+Vishal booked the 10
+
+Turn 35: 
+
+Lars asks for Q
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 36: 
+
+Vishal asks for 3
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 37: 
+
+Lars asks for 2
+Vishal gave Lars the 2
+
+Lars booked the 2
+
+Turn 38: 
+
+Lars asks for Q
+Vishal says GO FISH!
+
+Lars drew a card
+
+Turn 39: 
+
+Vishal asks for 4
+Lars gave Vishal the 4
+
+Vishal booked the 4
+
+Turn 40: 
+
+Vishal asks for 3
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 41: 
+
+Lars asks for Q
+Vishal says GO FISH!
+
+Lars drew a card
+Lars booked the Q
+
+Turn 42: 
+
+Vishal asks for A
+Lars says GO FISH!
+
+Vishal drew a card
+
+Turn 43: 
+
+Lars has no cards, GO FISH!
+
+Lars drew a card
+
+Turn 44: 
+
+Vishal asks for 8
+Lars says GO FISH!
+
+Vishal drew a card
+Vishal booked the 8
+
+Turn 45: 
+
+Lars asks for 7
+Vishal gave Lars the 7
+
+Lars booked the 7
+
+Turn 46: 
+
+Lars has no cards, GO FISH!
+
+Lars drew a card
+
+Turn 47: 
+
+Vishal asks for A
+Lars says GO FISH!
+
+Vishal drew a card
+Vishal booked the 5
+
+Turn 48: 
+
+Lars asks for 3
+Vishal gave Lars the 3
+
+Lars booked the 3
+
+Turn 49: 
+
+Lars has no cards, GO FISH!
+
+Lars drew a card
+
+Turn 50: 
+
+Vishal asks for A
+Lars gave Vishal the A
+
+Vishal booked the A
+
+Deck is empty and all cards are booked! GAME OVER!
+
+Vishal had 13 books, while Lars had 13 books.
+Vishal and Lars tied!

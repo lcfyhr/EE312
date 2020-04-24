@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/larsfyhr/Desktop/EE 312/StackFun/EquationChecker/driver.c
+stack312_arr.h
+/Users/larsfyhr/Desktop/EE 312/StackFun/EquationChecker/stack312_arr.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
+/Users/larsfyhr/Desktop/EE 312/StackFun/EquationChecker/stack312_arr.c
+stack312_arr.h
+/Users/larsfyhr/Desktop/EE 312/StackFun/EquationChecker/stack312_arr.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/Users/larsfyhr/Desktop/EE 312/StackFun/EquationChecker/stack312_arr.h
+stdio.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/UTPod.dir/UTPodDriver.cpp.o CMakeFiles/UTPod.dir/UTPod.cpp.o CMakeFiles/UTPod.dir/Song.cpp.o  -o UTPod 

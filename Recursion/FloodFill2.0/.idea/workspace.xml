@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FloodFill2.0" targetName="FloodFill2.0" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31e3555b-283b-410c-bb6a-baaa443ab6fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YsEodfFFfGWzyQlH34xItnb7X9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FloodFill2.0" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FloodFill2.0" TARGET_NAME="FloodFill2.0" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FloodFill2.0" RUN_TARGET_NAME="FloodFill2.0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e3555b-283b-410c-bb6a-baaa443ab6fd" name="Default Changelist" comment="" />
+      <created>1583723078117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583723078117</updated>
+      <workItem from="1583723080996" duration="1794000" />
+      <workItem from="1583724924090" duration="611000" />
+      <workItem from="1583726179103" duration="423000" />
+      <workItem from="1583726642857" duration="12000" />
+      <workItem from="1583726674204" duration="49000" />
+      <workItem from="1583951821472" duration="126000" />
+      <workItem from="1584060361318" duration="8000" />
+      <workItem from="1584061336519" duration="5000" />
+      <workItem from="1585760289419" duration="8000" />
+      <workItem from="1585760473947" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583723557978">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.809@0.23.1440.809" timestamp="1583723557978" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1583725575216">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1583725575216" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1583725575216">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1583725575216" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1583725575216">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1583725575216" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1583725575216">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1583725575216" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom" timestamp="1583724880132">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.809@0.23.1440.809" timestamp="1583724880132" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center" timestamp="1583724880132">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.809@0.23.1440.809" timestamp="1583724880132" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left" timestamp="1583724880132">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.809@0.23.1440.809" timestamp="1583724880132" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right" timestamp="1583724880132">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.809@0.23.1440.809" timestamp="1583724880132" />
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1584060361133">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="374" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.809@0.23.1440.809" timestamp="1584060361133" />
+  </component>
+</project>

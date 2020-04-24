@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/larsfyhr/Desktop/EE 312/StackFun/FloodFill/driver.c
+stack312_ll.h
+/Users/larsfyhr/Desktop/EE 312/StackFun/FloodFill/stack312_ll.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
+/Users/larsfyhr/Desktop/EE 312/StackFun/FloodFill/stack312_ll.h
+stdio.h
+-
+stdbool.h
+-
+
